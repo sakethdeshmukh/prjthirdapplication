@@ -1,0 +1,7 @@
+C:\Users\Saketh\Documents\c#\day1\firstapplication\Loopandconditionalstatements\bin\Debug\Loopandconditionalstatements.exe.config
+C:\Users\Saketh\Documents\c#\day1\firstapplication\Loopandconditionalstatements\bin\Debug\Loopandconditionalstatements.exe
+C:\Users\Saketh\Documents\c#\day1\firstapplication\Loopandconditionalstatements\bin\Debug\Loopandconditionalstatements.pdb
+C:\Users\Saketh\Documents\c#\day1\firstapplication\Loopandconditionalstatements\obj\Debug\Loopandconditionalstatements.csproj.CoreCompileInputs.cache
+C:\Users\Saketh\Documents\c#\day1\firstapplication\Loopandconditionalstatements\obj\Debug\Loopandconditionalstatements.exe
+C:\Users\Saketh\Documents\c#\day1\firstapplication\Loopandconditionalstatements\obj\Debug\Loopandconditionalstatements.pdb
+C:\Users\Saketh\Documents\c#\day1\firstapplication\Loopandconditionalstatements\obj\Debug\Loopandconditionalstatements.csprojAssemblyReference.cache
